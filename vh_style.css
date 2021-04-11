@@ -1,0 +1,14 @@
+.container{
+    font-size: 2rem;
+    display: flex;
+}
+
+.item1{
+    background-color: blue;
+   
+}
+
+.item2{
+    background-color: darkgreen;
+   
+}
